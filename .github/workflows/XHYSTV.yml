@@ -1,8 +1,8 @@
 name: XHYSTV
-
+# 代码来自o0HalfLife0o/TVBoxOSC
 on:
   schedule:
-    - cron: 0 6 * * *
+    - cron: 0 7 * * *
   workflow_dispatch:
     inputs:
       rebuild:

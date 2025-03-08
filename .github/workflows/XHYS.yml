@@ -1,8 +1,8 @@
 name: XHYS
-
+# 代码来自o0HalfLife0o/TVBoxOSC
 on:
   schedule:
-    - cron: 0 5 * * *
+    - cron: 0 6 * * *
   workflow_dispatch:
     inputs:
       rebuild:
