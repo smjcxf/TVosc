@@ -1,5 +1,6 @@
 {
   "code": "325",
   "name": "3.2.5",
-  "desc": "1: update\n2: Update strings.xml\n3: 修复已知BUG\n4: Support drm header\n5: Clean code\n6: Update build.gradle\n7: Optimize restore and backup\n8: Fix crash\n9: Revert js content\n"
+  "desc": "1: update\n2: Update strings.xml\n3: 修复已知BUG\n4: Support drm header\n5: Clean code\n6: Update build.gradle\n7: Optimize restore and backup\n8: Fix crash\n9: Revert js content\n",
+  "apkurl": "https://ghfast.top/https://github.com/xisohi/XHYSosc/releases/download/fongmi/{name}"
 }

@@ -1,5 +1,6 @@
 {
   "code": "260",
   "name": "2.6.0",
-  "desc": "1: 添加远程背景\n"
+  "desc": "1: 添加远程背景\n",
+  "apkurl": "https://ghfast.top/https://github.com/xisohi/XHYSosc/releases/download/release/{name}"
 }
