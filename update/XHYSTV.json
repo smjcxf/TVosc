@@ -4,9 +4,9 @@
   "UpdateStatus": 3,//1、默认更新2、强制更新3、使用系统弹窗提示
   "VersionCode": 250308,
   "VersionName": "250308",
-  "UploadTime": "2025-03-08 19:34:57",
-  "ModifyContent": "1: 解决直播右上角乱闪\n2: 优化epg匹配逻辑\n3: 还原正常打包gradle\n4: 女神节快乐\n5: # Conflicts:\n6: #	app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java\n7: Add files via upload\n8: Update test.yml\n9: 优化配置加载逻辑;\n10: 支持仅设置直播地址的情况;\n11: Update build.gradle\n12: 解决扫码设置配置地址时直播配置未变动的问题;\n13: 解决因直播频道过多导致的频道列表卡顿的问题;\n",
+  "UploadTime": "2025-03-11 07:59:04",
+  "ModifyContent": "1: # Conflicts:\n2: #	app/src/main/res/values/strings.xml\n3: 当前选中直播加载错误时自动切换到下一个\n4: 修直播频道列表定时隐藏bug\n5: 修改进度条样式\n6: 点播增加屏显开关\n7: 直播支持传递ua参数\n8: 直播支持回看\n9: 优化jar加载;\n",
   "DownloadUrl": "https://ghfast.top/https://github.com/xisohi/XHYSosc/releases/download/XHYSTV/XHYSTV.apk",
-  "ApkSize": 18994,
-  "ApkMd5": "3a06264b8a8ff909bc77f484977aed8d"
+  "ApkSize": 19004,
+  "ApkMd5": "95cec3008ebf542c364e6a5e7c926366"
 }
